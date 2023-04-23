@@ -1,4 +1,4 @@
-# Object-facial-recognition
+# ReconnaissanceFacial
 
 ## Description
 
